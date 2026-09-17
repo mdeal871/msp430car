@@ -1,7 +1,7 @@
 # Autonomous WiFi/Black-Line RC Car — MSP430 Firmware
 
 **Author:** Mason Deal
-**Platform:** MSP430FR2355 (or similar FRAM-based MSP430), Code Composer Studio 12.8.1.00005
+**Platform:** MSP430FR2355, Code Composer Studio 12.8.1.00005
 **Project:** Project 10 — Demo Day 🎉 *(Passed on the first try!)*
 
 ## Overview
